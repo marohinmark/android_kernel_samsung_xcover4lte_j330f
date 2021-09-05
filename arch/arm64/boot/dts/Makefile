@@ -3,6 +3,10 @@ dtb-y += exynos7570-xcover4lte_eur_open_00.dtb
 dtb-y += exynos7570-xcover4lte_eur_open_01.dtb
 dtb-y += exynos7570-xcover4lte_eur_open_02.dtb
 dtb-y += exynos7570-xcover4lte_eur_open_04.dtb
+dtb-y += exynos7570-j3y17lte_eur_open_00.dtb
+dtb-y += exynos7570-j3y17lte_eur_open_01.dtb
+dtb-y += exynos7570-j3y17lte_eur_open_02.dtb
+dtb-y += exynos7570-j3y17lte_eur_open_04.dtb
 
 targets += dtbs
 DTB_LIST  := $(dtb-y) $(dtbo-y)
